@@ -4,7 +4,8 @@ Marketplace de NFTs para colecionadores, criadores e cultura digital. A aplicaç
 permite explorar um catálogo de obras, montar carrinho, finalizar compras com
 carteira digital e acompanhar pedidos — tudo com uma API simulada no navegador.
 
-https://marketplace-nft-ru8l.vercel.app/
+Deploy: https://marketplace-nft-ru8l.vercel.app/
+Repositório: https://github.com/123Mirandinha123/marketplace-nft
 
 ## Funcionalidades
 
